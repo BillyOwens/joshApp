@@ -1,0 +1,46 @@
+The ability to record sounds is often connected to the production of electronic music, but not absolutely necessary for it. The earliest known sound recording device was the phonautograph, patented in 1857 by Édouard-Léon Scott de Martinville. It could record sounds visually, but was not meant to play them back.[4]
+
+In 1876, engineer Elisha Gray demonstrated an electromechanical oscillator which he called a "Musical Telegraph". By 1878, Thomas A. Edison further developed the oscillator for the phonograph, which also used cylinders similar to Scott's device. Although cylinders continued in use for some time, Emile Berliner developed the disc phonograph in 1887.[5] Lee de Forest's 1906 invention, the triode audion tube, later had a profound effect on electronic music. It was the first thermionic valve, or vacuum tube, and led to circuits that could create and amplify audio signals, broadcast radio waves, compute values, and perform many other functions.
+
+Before electronic music, there was a growing desire for composers to use emerging technologies for musical purposes. Several instruments were created that employed electromechanical designs and they paved the way for the later emergence of electronic instruments. An electromechanical instrument called the Telharmonium (sometimes Teleharmonium or Dynamophone) was developed by Thaddeus Cahill in the years 1898 to 1912. However, simple inconvenience hindered the adoption of the Telharmonium, due to its immense size. One early electronic instrument often mentioned may be the theremin, invented by Professor Léon Theremin circa 1919–1920.[6] Other early electronic instruments include the Audion Piano invented in 1915 by Lee de Forest who was inventor of triode audion as mentioned above,[7][8] the Croix Sonore, invented in 1926 by Nikolai Obukhov, and the ondes Martenot, which was most famously used in the Turangalîla-Symphonie by Olivier Messiaen as well as other works by him. The ondes Martenot was also used by other, primarily French, composers such as André Jolivet.[9]
+
+Sketch of a New Esthetic of Music[edit]
+Main article: Ferruccio Busoni
+In 1907, just a year after the invention of the triode audion, Ferruccio Busoni published Sketch of a New Esthetic of Music, which discussed the use of electrical and other new sound sources in future music. He wrote of the future of microtonal scales in music, made possible by Cahill's Dynamophone: "Only a long and careful series of experiments, and a continued training of the ear, can render this unfamiliar material approachable and plastic for the coming generation, and for Art."[10]
+
+Also in the Sketch of a New Esthetic of Music, Busoni states:
+
+Music as an art, our so-called occidental music, is hardly four hundred years old; its state is one of development, perhaps the very first stage of a development beyond present conception, and we—we talk of "classics" and "hallowed traditions"! And we have talked of them for a long time!
+
+We have formulated rules, stated principles, laid down laws;—we apply laws made for maturity to a child that knows nothing of responsibility!
+
+Young as it is, this child, we already recognize that it possesses one radiant attribute which signalizes it beyond all its elder sisters. And the lawgivers will not see this marvelous attribute, lest their laws should be thrown to the winds. This child—it floats on air! It touches not the earth with its feet. It knows no law of gravitation. It is well nigh incorporeal. Its material is transparent. It is sonorous air. It is almost Nature herself. It is—free!
+
+But freedom is something that mankind have never wholly comprehended, never realized to the full. They can neither recognize or acknowledge it.
+
+They disavow the mission of this child; they hang weights upon it. This buoyant creature must walk decently, like anybody else. It may scarcely be allowed to leap—when it were its joy to follow the line of the rainbow, and to break sunbeams with the clouds.[11]
+
+Through this writing, as well as personal contact, Busoni had a profound effect on many musicians and composers, perhaps most notably on his pupil, Edgard Varèse, who said:
+
+Together we used to discuss what direction the music of the future would, or rather, should take and could not take as long as the straitjacket of the tempered system. He deplored that his own keyboard instrument had conditioned our ears to accept only an infinitesimal part of the infinite gradations of sounds in nature. He was very much interested in the electrical instruments we began to hear about, and I remember particularly one he had read of called the Dynamophone. All through his writings one finds over and over again predictions about the music of the future which have since come true. In fact, there is hardly a development that he did not foresee, as for instance in this extraordinary prophecy: 'I almost think that in the new great music, machines will also be necessary and will be assigned a share in it. Perhaps industry, too, will bring forth her share in the artistic ascent.'[12]
+
+Futurists[edit]
+Main article: Futurism (music)
+In Italy, the Futurists approached the changing musical aesthetic from a different angle. A major thrust of the Futurist philosophy was to value "noise," and to place artistic and expressive value on sounds that had previously not been considered even remotely musical. Balilla Pratella's "Technical Manifesto of Futurist Music" (1911) states that their credo is: "To present the musical soul of the masses, of the great factories, of the railways, of the transatlantic liners, of the battleships, of the automobiles and airplanes. To add to the great central themes of the musical poem the domain of the machine and the victorious kingdom of Electricity."[13]
+
+On 11 March 1913, futurist Luigi Russolo published his manifesto "The Art of Noises". In 1914, he held the first "art-of-noises" concert in Milan on April 21. This used his Intonarumori, described by Russolo as "acoustical noise-instruments, whose sounds (howls, roars, shuffles, gurgles, etc.) were hand-activated and projected by horns and megaphones."[14] In June, similar concerts were held in Paris.
+
+The 1920s to 1930s[edit]
+Further information: Electronic musical instrument and Léon Theremin
+See also: Graphical sound, Trautonium and Harald Bode
+This decade brought a wealth of early electronic instruments and the first compositions for electronic instruments. The first instrument, the Etherophone, was created by Léon Theremin (born Lev Termen) between 1919 and 1920 in Leningrad, though it was eventually renamed the theremin. This led to the first compositions for electronic instruments, as opposed to noisemakers and re-purposed machines. In 1929, Joseph Schillinger composed First Airphonic Suite for Theremin and Orchestra, premièred with the Cleveland Orchestra with Leon Theremin as soloist.
+
+In addition to the theremin, the ondes Martenot was invented in 1928 by Maurice Martenot, who debuted it in Paris.[15]
+
+In 1924, George Antheil composed a score for Fernand Leger's film Ballet Mecanique, featuring player pianos in sync, airplane propellers, and other artificial sounds.[clarification needed] In 1929, Antheil composed for mechanical devices, electrical noisemakers, motors, and amplifiers in his unfinished opera, Mr. Bloom.[citation needed]
+
+Recording of sounds made a leap in 1927, when American inventor J. A. O'Neill developed a recording device that used magnetically coated ribbon. However, this was a commercial failure. Two years later, Laurens Hammond established his company for the manufacture of electronic instruments. He went on to produce the Hammond organ, which was based on the principles of the Telharmonium, along with other developments including early reverberation units.[16] Hammond (along with John Hanert and C. N. Williams) would also go on to invent another electronic instrument, the Novachord, which Hammond's company manufactured from 1939–1942.[17]
+
+The method of photo-optic sound recording used in cinematography made it possible to obtain a visible image of a sound wave, as well as to realize the opposite goal—synthesizing a sound from an artificially drawn sound wave.
+
+In this same period, experiments began with sound art, early practitioners of which include Tristan Tzara, Kurt Schwitters, Filippo Tommaso Marinetti, and others. The animation film L'Idee (1932) by Berthold Bartosch featured a score composed by Arthur Honegger with ondes Martenot and chamber orchestra.[18][19]
